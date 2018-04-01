@@ -1,0 +1,1 @@
+This is a website project for polling of votes for a group goals done by the students in any institute.
